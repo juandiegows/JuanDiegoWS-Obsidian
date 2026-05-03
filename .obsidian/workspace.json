@@ -129,7 +129,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -259,25 +259,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "89f95c3229abaefa",
+  "active": "66ec1898c683e54b",
   "lastOpenFiles": [
-    "Libros/El hombre más ricos de babilonia/El Gran Cuestionario de Babilonia.md",
+    "Libros/El hombre más ricos de babilonia/Las Tablillas de Dabasir.md",
     "Libros/El hombre más ricos de babilonia/Resumen - El hombre más ricos de babilonia.md",
+    "Libros/El hombre más ricos de babilonia/El Gran Cuestionario de Babilonia.md",
     "Libros/El hombre más ricos de babilonia/El Examen de los Maestros de Babilonia..md",
     "Libros/El hombre más ricos de babilonia/Cap 5 - Planes Maestros de Acción Financiera.md",
     "Libros/El hombre más ricos de babilonia/Index.base",
     "Libros/El hombre más ricos de babilonia/Cap 1 - El hombre más ricos de babilonia.md",
     "Libros/El hombre más ricos de babilonia/Cap 2 - El Plan de las 5 Tablillas de Dabasir.md",
-    "Las Tablillas de Dabasir.md",
     "Libros/El hombre más ricos de babilonia/Cap 4 - Las 5 Leyes Inmutables.md",
     "Libros/El hombre más ricos de babilonia/Cap 3 - El relato de los 7 remedios para una bolsa escasa.md",
     "Welcome.md",
