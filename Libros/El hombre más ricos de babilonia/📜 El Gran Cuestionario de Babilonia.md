@@ -1,4 +1,5 @@
-# 📜 El Gran Cuestionario de Babilonia
+
+
 > Este cuestionario evalúa tu preparación para recibir y conservar el oro.
 
 ---

@@ -6,12 +6,14 @@ tags:
 ---
 
 # 🏛️ El Hombre Más Rico de Babilonia
+
 **Autor:** George S. Clason  
 **Edición:** Libroclásico Original (Adaptación de Hyen Uk Chu)
 
 ---
 
 ## 📜 I. El Plan de las 5 Tablillas (Regla 70-20-10)
+
 Basado en la historia de Dabasir, quien pasó de esclavo a hombre honorable siguiendo esta distribución estricta de sus ingresos:
 
 > [!SUCCESS] 10% - Para tu Futuro (Ahorro e Inversión)
@@ -29,6 +31,7 @@ Basado en la historia de Dabasir, quien pasó de esclavo a hombre honorable sigu
 ---
 
 ## 🍯 II. Los 7 Remedios para una Bolsa Escasa
+
 Arkad explica los pasos fundamentales para transformar la escasez en abundancia:
 
 1. **Llena tu bolsa:** Guarda de forma inviolable el 10% de todo lo que ganes.
@@ -42,6 +45,7 @@ Arkad explica los pasos fundamentales para transformar la escasez en abundancia:
 ---
 
 ## 📀 III. Las 5 Leyes Inmutables del Oro
+
 El código de comportamiento que rige cómo el dinero llega, se mantiene o huye de las manos de un hombre:
 
 * **I. Atracción:** El oro llega en cantidades crecientes a quien ahorra al menos el 10% de lo que gana.
