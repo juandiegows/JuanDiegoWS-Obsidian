@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - file.folder == "Libros/El Inversor Inteligente"
+        - '!file.fullname.endsWith(".base")'

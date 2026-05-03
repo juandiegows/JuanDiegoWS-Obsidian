@@ -95,14 +95,13 @@
             "id": "66ec1898c683e54b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Libros/El hombre más ricos de babilonia/Resumen - El hombre más ricos de babilonia.md",
-                "mode": "source",
-                "source": false
+                "file": "Libros/El Inversor Inteligente/Index.base",
+                "viewName": "Tabla"
               },
-              "icon": "lucide-file",
-              "title": "Resumen - El hombre más ricos de babilonia"
+              "icon": "lucide-table",
+              "title": "Index"
             }
           }
         ],
@@ -270,12 +269,15 @@
   },
   "active": "66ec1898c683e54b",
   "lastOpenFiles": [
-    "Libros/El hombre más ricos de babilonia/Las Tablillas de Dabasir.md",
+    "Libros/El hombre más ricos de babilonia/Index.base",
+    "Libros/El Inversor Inteligente/Index.base",
     "Libros/El hombre más ricos de babilonia/Resumen - El hombre más ricos de babilonia.md",
+    "Libros/El Inversor Inteligente",
+    "Libros/New folder",
+    "Libros/El hombre más ricos de babilonia/Las Tablillas de Dabasir.md",
     "Libros/El hombre más ricos de babilonia/El Gran Cuestionario de Babilonia.md",
     "Libros/El hombre más ricos de babilonia/El Examen de los Maestros de Babilonia..md",
     "Libros/El hombre más ricos de babilonia/Cap 5 - Planes Maestros de Acción Financiera.md",
-    "Libros/El hombre más ricos de babilonia/Index.base",
     "Libros/El hombre más ricos de babilonia/Cap 1 - El hombre más ricos de babilonia.md",
     "Libros/El hombre más ricos de babilonia/Cap 2 - El Plan de las 5 Tablillas de Dabasir.md",
     "Libros/El hombre más ricos de babilonia/Cap 4 - Las 5 Leyes Inmutables.md",
