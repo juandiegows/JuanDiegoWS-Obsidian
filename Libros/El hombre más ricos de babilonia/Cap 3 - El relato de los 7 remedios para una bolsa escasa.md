@@ -63,3 +63,5 @@ tags:
 Como Analyst y Software Developer, el **Remedio 7** es tu mayor activo. Mantenerte al día con arquitecturas limpias y nuevas tecnologías no solo es un interés técnico, es la garantía de que tu capacidad de generar ingresos siempre irá en aumento.
 
 #crecimiento #finanzas_personales
+
+[[Cap 4 - Las 5 Leyes Inmutables]]

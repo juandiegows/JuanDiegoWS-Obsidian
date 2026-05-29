@@ -54,3 +54,5 @@ Como desarrollador y analista, estas leyes se aplican directamente a tu stack te
 2. **Ley 4:** Antes de invertir en un nuevo mercado o tecnología, aplica tu rigor de análisis técnico para no invertir en "terrenos desconocidos".
 
 #riqueza #estrategia #babilonia
+
+[[Cap 5 - Planes Maestros de Acción Financiera]]

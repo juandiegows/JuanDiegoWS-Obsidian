@@ -45,3 +45,4 @@ capitulo: 1
 - [ ] ¿Estoy consultando con la persona adecuada para mis proyectos actuales?
 - [ ] ¿Mis ganancias están siendo reinvertidas o consumidas?
 
+[[Cap 2 - El Plan de las 5 Tablillas de Dabasir]]
